@@ -16,7 +16,7 @@ Just install [Google Translate extension](https://chrome.google.com/webstore/det
 
 If you've done these steps correctly, when you click on the extension icon ( <img src="https://raw.githubusercontent.com/alirezaeftekhari/coursera-chrome-extension/master/images/icon128.png?raw=true" width="20"/> ) you should see a green button with "Generate" text written inside.
 ### A video example:
-You can click on this link to see a video to completely understand how to use this extension and improving your learning speed on the Coursera platform :)
+You can click on [this link](https://drive.google.com/file/d/1L83aTIklkW2_d7-9Gb2C1f99lkcPCYbq/view?usp=sharing) to see a video to completely understand how to use this extension and improving your learning speed on the Coursera platform :)
 
 ### How it works?
 Coursera is using [WebVTT (Web Video Text Tracks)](https://en.wikipedia.org/wiki/WebVTT) for showing subtitles inside the video element.
