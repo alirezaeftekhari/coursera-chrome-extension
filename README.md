@@ -1,7 +1,7 @@
 # Coursera Chrome Extension
 This is a Chrome browser extension that displays real-time subtitles of running video within a generated HTML DOM element.
 
-This plugin helps students to translate it instantly according to their preferred language with the help of [Google Translate extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) if they do not understand the language of the teacher.
+This extension helps students to translate instantly according to their preferred language with the help of [Google Translate extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) if they do not understand the language of the teacher.
 
 ## How to use it?
 ### Prerequisites:
