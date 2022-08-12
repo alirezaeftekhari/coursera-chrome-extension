@@ -28,7 +28,7 @@ function initViewElement() {
   pre.style.letterSpacing = '-0.1px';
   pre.style.marginTop = '16px';
   ///////////
-  document.getElementsByClassName('ItemLecture_Video_Transcript')[0].prepend(pre);
+  document.getElementsByClassName('css-5tv8pg')[0].prepend(pre);
 }
 
 function renderCurrentSubs() {
@@ -40,7 +40,7 @@ function renderCurrentSubs() {
     let newVal = texts.join('\n');
     let currentVal = document.getElementById('currentSub').innerHTML;
     if (newVal !== currentVal) {
-        document.getElementById('currentSub').innerHTML = texts.join('\n');
+        document.getElementById('currentSub').innerHTML = newVal;
     }
 });
 }
