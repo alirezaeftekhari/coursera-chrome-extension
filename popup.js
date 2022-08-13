@@ -28,7 +28,11 @@ function initViewElement() {
   pre.style.letterSpacing = '-0.1px';
   pre.style.marginTop = '16px';
   ///////////
-  document.getElementsByClassName('css-5tv8pg')[0].prepend(pre);
+
+  ////br for decoupling
+  let br = document.createElement('br');
+  ////
+  document.getElementsByClassName('css-5tv8pg')[0].prepend(br, pre, br);
 }
 
 function renderCurrentSubs() {
